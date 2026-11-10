@@ -23,7 +23,7 @@
 ## 🛠️ Technical Skills & Technologies
 
 ### 💻 Programming Languages
-Python • SQL • C • JavaScript • TypeScript • MATLAB
+Python • SQL • JavaScript • TypeScript 
 
 ### 🤖 Machine Learning & Deep Learning
 - Scikit-learn
