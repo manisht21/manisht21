@@ -147,8 +147,6 @@ Python • SQL • JavaScript • TypeScript
 
 ### AI Engineer Intern | Techisor
 
-Working on **AMAZEX – an AI-powered, multi-tenant SaaS platform**.
-
 Areas of engineering:
 
 - LLM integrations using AWS Bedrock, OpenAI, and Google Gemini.
